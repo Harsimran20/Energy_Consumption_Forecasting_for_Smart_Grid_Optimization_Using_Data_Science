@@ -1,0 +1,3 @@
+temperature, humidity, wind_speed, solar_radiation,
+hour, dayofweek, month, is_weekend,
+lag_1h, lag_24h, rolling_24h
